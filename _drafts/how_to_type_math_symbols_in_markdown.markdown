@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "how to type math symbols in markdown"
-category: tech
-tags: 
+category: tutorial
+tags: tech
 cover: false
 cover-image: 
 comments: false

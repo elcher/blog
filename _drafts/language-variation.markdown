@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "language-variation"
-category: linguistics
-tags: 
+category: post
+tags: linguistics
 cover: false
 cover-image: 
 comments: false

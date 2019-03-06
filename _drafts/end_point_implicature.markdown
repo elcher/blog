@@ -2,7 +2,7 @@
 layout: post
 title: "end point implicature"
 category: linguistics
-tags: 
+tags: linguistics
 cover: false
 cover-image: 
 comments: false

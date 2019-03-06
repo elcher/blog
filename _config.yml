@@ -30,7 +30,7 @@ sass:
 author:
   name     : "Dora Feline"
   job      : "linguist"
-  bio      : ""
+  bio      : "I write."
   thumb    : ./images/author.jpg
 #  email    : hnrird@gmail.com
   url      : http://elcher.github.io

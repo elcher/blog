@@ -3,6 +3,7 @@ _drafts/
 _posts.bak/
 .sass-cache/
 .bundle/
+.hyde.el
 
 # Windows image file caches
 Thumbs.db

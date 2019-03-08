@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
+title:
 permalink: /about/
 ---
 
-$$\mathtt{\lambda}\texttt{x.(writing makes x smarter)}$$
+$$\mathtt{\lambda}\texttt{x.(writing makes x smarter)}(me)$$

@@ -1,6 +1,7 @@
 _site/
 _drafts/
 _posts.bak/
+_posts/
 .sass-cache/
 .bundle/
 .hyde.el

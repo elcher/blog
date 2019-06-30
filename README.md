@@ -1,12 +1,8 @@
-# ZBUniversity
+# PageBreak
 
 I created a blog based on [thinkspace](http://heiswayi.github.io/thinkspace/),
 [a minimalist Jekyll theme](https://github.com/heiswayi/thinkspace) designed for
 technical writing.
-
-## What does ZB stand for?
-If the abbreviation makes sense to you, it stands for what you think it stands
-for. If it does not make any sense to you, it does not stand for anything.
 
 ## Why do I start this blog?
 My work heavily relies on writing. In the hope of getting my writing improved

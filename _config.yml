@@ -1,0 +1,62 @@
+# SEO settings
+title: "Page"
+title2: "Break" # default: ""
+description: "C-q C-l"
+# keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+url: http://elcher.github.io # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+# google_analytics: UA-XXXXX-XX
+# repo: http://github.com/elcher/elcher.github.io
+disqus_shortname: "elch"
+twitter_username: "yoyo_available"
+comments: false
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Longcan Huang"
+  job      : "linguist"
+  bio      : "I write."
+  thumb    : ./images/author.jpg
+#  email    : hnrird@gmail.com
+  url      : http://elcher.github.io
+  github   : http://github.com/elcher
+  twitter  : http://twitter.com/yoyo_available
+#  facebook : https://www.facebook.com/heiswayi.nrird
+#  linkedin : http://linkedin.com/in/nrird
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@yoyo_available"
+
+plugins:
+  - bourbon
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - github-pages
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]

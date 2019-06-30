@@ -1,5 +1,5 @@
 #!/bin/bash
-git checkout gh-pages
+git checkout master
 git add -A
 git commit -m "Update blog"
-git push origin gh-pages
+git push origin master

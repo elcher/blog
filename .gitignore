@@ -5,6 +5,7 @@ _posts/
 .sass-cache/
 .bundle/
 .hyde.el
+Gemfile.lock
 
 # Windows image file caches
 Thumbs.db

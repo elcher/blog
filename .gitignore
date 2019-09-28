@@ -9,6 +9,8 @@ assets/
 .bundle/
 .hyde.el
 Gemfile.lock
+Gemfile
+deploy.sh
 
 # Windows image file caches
 Thumbs.db

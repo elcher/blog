@@ -21,6 +21,7 @@ highlighter : rouge
 
 source: ./
 destination: ./_site
+repository: "elcher/elcher.github.io"
 
 # Sass configuration
 sass:

@@ -5,9 +5,20 @@
     <description>C-q C-l</description>
     <link>http://elcher.github.io/</link>
     <atom:link href="http://elcher.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Nov 2020 16:11:00 -0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2020 16:11:00 -0800</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2020 16:18:27 -0800</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2020 16:18:27 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Relations</title>
+        <description>
+</description>
+        <pubDate>Thu, 12 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://elcher.github.io/2019/relations/</link>
+        <guid isPermaLink="true">http://elcher.github.io/2019/relations/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>

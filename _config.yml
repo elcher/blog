@@ -53,6 +53,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - github-pages
+  - jekyll-org
 
 # navbar pages
 navbar:

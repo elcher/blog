@@ -1,3 +1,0 @@
-#+TITLE: Test
-#+LAYOUT: post
-#+TAGS: jekyll

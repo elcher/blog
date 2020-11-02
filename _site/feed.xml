@@ -5,8 +5,8 @@
     <description>C-q C-l</description>
     <link>http://elcher.github.io/</link>
     <atom:link href="http://elcher.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Nov 2020 21:46:19 -0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2020 21:46:19 -0800</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2020 21:52:21 -0800</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2020 21:52:21 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -19,27 +19,11 @@
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;
-BEGIN&lt;sub&gt;EXPORT&lt;/sub&gt;
-&amp;#x2014;
+---
 layout: post
 title: test
 excerpt:
-categories:
-&lt;/p&gt;
-&lt;ul class=&quot;org-ul&quot;&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-tags:
-&lt;/p&gt;
-&lt;ul class=&quot;org-ul&quot;&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-&amp;#x2014;
-#+END&lt;sub&gt;EXPORT&lt;/sub&gt;
-&lt;/p&gt;
+---
 
 &lt;div id=&quot;outline-container-org47bbf65&quot; class=&quot;outline-2&quot;&gt;
 &lt;h2 id=&quot;org47bbf65&quot;&gt;&lt;span class=&quot;section-number-2&quot;&gt;1&lt;/span&gt; jjijijij&lt;/h2&gt;

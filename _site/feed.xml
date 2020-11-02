@@ -5,28 +5,18 @@
     <description>C-q C-l</description>
     <link>http://elcher.github.io/</link>
     <atom:link href="http://elcher.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Nov 2020 21:52:21 -0800</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2020 21:52:21 -0800</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2020 22:03:50 -0800</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2020 22:03:50 -0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Test</title>
-        <description>&lt;div id=&quot;table-of-contents&quot;&gt;
-&lt;h2&gt;Table of Contents&lt;/h2&gt;
-&lt;div id=&quot;text-table-of-contents&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#org47bbf65&quot;&gt;1. jjijijij&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
----
-layout: post
-title: test
-excerpt:
----
-
-&lt;div id=&quot;outline-container-org47bbf65&quot; class=&quot;outline-2&quot;&gt;
+        <title>test</title>
+        <description>&lt;div id=&quot;outline-container-org47bbf65&quot; class=&quot;outline-2&quot;&gt;
 &lt;h2 id=&quot;org47bbf65&quot;&gt;&lt;span class=&quot;section-number-2&quot;&gt;1&lt;/span&gt; jjijijij&lt;/h2&gt;
+&lt;/div&gt;
+
+&lt;div id=&quot;outline-container-org44ba8b6&quot; class=&quot;outline-2&quot;&gt;
+&lt;h2 id=&quot;org44ba8b6&quot;&gt;&lt;span class=&quot;section-number-2&quot;&gt;2&lt;/span&gt; jjjjsejfi&lt;/h2&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 -0700</pubDate>

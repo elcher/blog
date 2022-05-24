@@ -5,7 +5,7 @@ title2: "Break" # default: ""
 description: "C-q C-l"
 # keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://elcher.github.io/pagebreak # site url
-baseurl: "pagebreak" # apply repo name if use it under gh-pages branch
+baseurl: "/pagebreak" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 # google_analytics: UA-XXXXX-XX

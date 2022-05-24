@@ -1,48 +1,36 @@
 # SEO settings
+title_left    : "Page"
+title_right   : "Break" # default: ""
+description   : "C-q C-l"
+keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+url           : elcher.github.io/pagebreak # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+cover         : "" # image uri like logo/cover image for site seo
 
-title: "Page"
-title2: "Break" # default: ""
-description: "C-q C-l"
-# keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://elcher.github.io/pagebreak # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
-
-# google_analytics: UA-XXXXX-XX
-# repo: http://github.com/elcher/elcher.github.io
-# disqus_shortname: "elch"
-# twitter_username: "yoyo_available"
-comments: false
+google_analytics  : UA-XXXXX-XX
+twitter_username  : ""
+comments_enabled  : false # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : ""
+postshare_enabled : false
 
 # Build settings
 permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
-source: ./
-destination: ./_site
-repository: "elcher/elcher.github.io"
+source      : ./
+destination : ./_site
 
 # Sass configuration
 sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
+  sass_dir  : assets/scss
+  style     : compressed # expanded
 
 # Author settings
 author:
   name     : "Longcan Huang"
   job      : "linguist"
   bio      : "I write."
-  thumb    : ./images/profile.jpg
-  email    : emma.longcan.huang@gmail.com
-  url      : http://elcher.github.io
-  github   : http://github.com/elcher
-  # twitter  : http://twitter.com/yoyo_available
-  linkedin : https://www.linkedin.com/in/longcan-huang/
-# social settings
-og_locale: "en_US"
-# twitter_card: "summary_large_image"
-# twitter_site: "@yoyo_available"
 
 plugins:
   - bourbon
@@ -50,7 +38,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - github-pages
   - jekyll-org
 
 # navbar pages
@@ -60,4 +47,22 @@ navbar:
   - slug : blog
     title: Blog
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+exclude:
+  - "gulp"
+  - "node_modules"
+  - "bower"
+  - "bower_components"
+  - "config.rb"
+  - "src"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - ".rvmrc"
+  - ".rbenv-version"
+  - "package.json"
+  - "gulpfile.js"
+  - "README.md"
+  - "Rakefile"
+  - "changelog.md"
+  - "script"
+  - "vendor"
+  - "thinkspace.gemspec"

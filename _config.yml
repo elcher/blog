@@ -10,8 +10,8 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 # google_analytics: UA-XXXXX-XX
 # repo: http://github.com/elcher/elcher.github.io
-disqus_shortname: "elch"
-twitter_username: "yoyo_available"
+# disqus_shortname: "elch"
+# twitter_username: "yoyo_available"
 comments: false
 
 # Build settings
@@ -33,18 +33,16 @@ author:
   name     : "Longcan Huang"
   job      : "linguist"
   bio      : "I write."
-#  thumb    : ./images/author.jpg
-#  email    : hnrird@gmail.com
+  thumb    : ./images/profile.jpg
+  email    : emma.longcan.huang@gmail.com
   url      : http://elcher.github.io
   github   : http://github.com/elcher
-  twitter  : http://twitter.com/yoyo_available
-#  facebook : https://www.facebook.com/heiswayi.nrird
-#  linkedin : http://linkedin.com/in/nrird
-
+  # twitter  : http://twitter.com/yoyo_available
+  linkedin : https://www.linkedin.com/in/longcan-huang/
 # social settings
 og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@yoyo_available"
+# twitter_card: "summary_large_image"
+# twitter_site: "@yoyo_available"
 
 plugins:
   - bourbon
